@@ -9,6 +9,8 @@ Hi, I'm Jesús, student of computer science (software development) at UGR (Unive
 ## Currently ... 
 :globe_with_meridians: Trainee at web development.
 
+##Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JesusGonzalezA&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ## Get in touch 
 <ul>
     <li>
