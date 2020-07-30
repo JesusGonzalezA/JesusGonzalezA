@@ -16,7 +16,7 @@ Hi, I'm Jesús, student of computer science (software development) at UGR (Unive
 ## Get in touch 
 <ul>
     <li>
-        <a href="https://twitter.com/JesusGonzalezA">
+        <a href="https://twitter.com/JesusGonADev">
           <img align="left" alt="JesusGonzalezA | Twitter" width="21px" src="https://raw.githubusercontent.com/JesusGonzalezA/JesusGonzalezA/master/assets/twitter-logo.png" />
         </a>
     </li>
