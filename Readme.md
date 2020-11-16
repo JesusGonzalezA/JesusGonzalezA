@@ -1,11 +1,7 @@
 # Jesús González Álvarez @JesusGonzalezA 
 Hi, I'm Jesús, student of computer science (software development) at UGR (University of Granada, Spain).
  
- ## My values 
-:muscle: Hard-working <br>
-:star: Creative <br>
-:smiley: Always smiling! <br>
-   
+  ## This page is under construction... :construction:
 ## Currently ... 
 :globe_with_meridians: Trainee at web development.
 
