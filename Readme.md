@@ -3,7 +3,6 @@ Hi, I'm Jesús, student of computer science (software development) at UGR (Unive
  
   ## This page is under construction... :construction:
 ## Currently ... 
-:globe_with_meridians: Trainee at web development.
 
 <h2>Stats</h2>
 
