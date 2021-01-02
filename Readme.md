@@ -2,15 +2,12 @@
 Hi, I'm Jesús, student of computer science (software development) at UGR (University of Granada, Spain).
 
 ## Skill set
-:fire: Fluent \
-:mortar_board: Basics \
-:clipboard: Whishlist
 
-:fire: React \
-:fire: Javascript \
-:fire: C++ \
-:mortar_board: Agile methodologies, :mortar_board: MySql, :mortar_board: Sql Server, :mortar_board: Jest, :mortar_board: Serial Ports, :mortar_board: Typescript, :mortar_board: CSS + Bootstrap4, :mortar_board: Java, :mortar_board: Ruby, :mortar_board: Node.js, :mortar_board: ASP.net Core, :mortar_board: Angular\
-:clipboard: Docker, :clipboard: Three.js, :clipboard: MongoDB, :clipboard: Arduino, :clipboard: ML
+:fire: **Fluent:** React, Javascript, C++, English
+
+:mortar_board: **Basics:** Agile methodologies, MySql, Sql Server, Jest,  Serial Ports, Typescript, CSS + Bootstrap4, Java, Ruby, Node.js, ASP.net Core, Angular
+
+:clipboard: **Wishlist:** Docker, Three.js, MongoDB, Arduino, ML
 
 <h2>Stats</h2>
 
