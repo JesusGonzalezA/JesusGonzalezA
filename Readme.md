@@ -1,8 +1,29 @@
 # Jesús González Álvarez @JesusGonzalezA 
 Hi, I'm Jesús, student of computer science (software development) at UGR (University of Granada, Spain).
- 
-  ## This page is under construction... :construction:
-## Currently ... 
+
+## Skill set
+:fire: Fluent
+:mortar_board: Basics
+:clipboard: Whishlist
+
+:fire: React
+:fire: Javascript
+:fire: C++
+:mortar_board: Agile methodologies
+:mortar_board: MySql
+:mortar_board: Sql Server
+:mortar_board: Jest
+:mortar_board: Serial Ports
+:mortar_board: Typescript
+:mortar_board: CSS + Bootstrap4
+:mortar_board: Java
+:mortar_board: Ruby
+:mortar_board: Node.js
+:mortar_board: ASP.net Core
+:mortar_board: Angular
+:clipboard: MongoDB
+:clipboard: Arduino
+:clipboard: ML
 
 <h2>Stats</h2>
 
