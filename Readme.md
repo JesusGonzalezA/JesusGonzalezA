@@ -5,7 +5,7 @@ Hi, I'm Jesús, student of computer science (software development) at UGR (Unive
 
 :fire: **Fluent:** React, Javascript, C++, English
 
-:mortar_board: **Basics:** Agile methodologies, MySql, Sql Server, Jest,  Serial Ports, Typescript, CSS + Bootstrap4, Java, Ruby, Node.js, ASP.net Core, Angular, Swagger
+:mortar_board: **Basics:** Agile methodologies, MySql, Sql Server, Jest,  Serial Ports, Typescript, CSS + Bootstrap4, Sass, Java, Ruby, Node.js, ASP.net Core, Angular, Swagger
 
 :clipboard: **Wishlist:** Docker, Three.js, MongoDB, Arduino, ML
 
