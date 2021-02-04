@@ -3,7 +3,10 @@ Hi, I'm Jesús, student of computer science (software development) at UGR (Unive
 
 ## Skill set
 
-:fire: **I feel comfortable using:** React, Javascript, C++, English
+:fire: **I feel comfortable using:** 
+* React
+* Javascript
+* C++
 
 :mortar_board: **I use/have used:** 
 * :two_men_holding_hands: Agile methodologies (Scrum)
@@ -25,6 +28,7 @@ Hi, I'm Jesús, student of computer science (software development) at UGR (Unive
     * Java, Ruby, ASP.net Core
     * Bootstrap4, Sass
     * Swagger, doxygen
+
 :clipboard: **Interested but haven't used yet:** Docker, Three.js, Arduino, ML
 
 ## Stats
