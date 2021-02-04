@@ -42,7 +42,9 @@ Hi, I'm Jesús, student of computer science (software development) at UGR (Unive
     * Bootstrap4, Sass
     * Swagger, doxygen
 
-:clipboard: **Interested but haven't used yet:** Docker, Three.js, Arduino, ML
+:clipboard: **Interested but haven't used yet:** \
+Docker, Three.js, Arduino, ML
+
 
 ## Get in touch 
 
