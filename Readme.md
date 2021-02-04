@@ -3,11 +3,29 @@ Hi, I'm Jesús, student of computer science (software development) at UGR (Unive
 
 ## Skill set
 
-:fire: **Fluent:** React, Javascript, C++, English
+:fire: **I feel comfortable using:** React, Javascript, C++, English
 
-:mortar_board: **Basics:** Agile methodologies, MySql, Sql Server, Jest,  Serial Ports, Typescript, CSS + Bootstrap4, Sass, Java, Ruby, Node.js, ASP.net Core, Angular, Swagger
-
-:clipboard: **Wishlist:** Docker, Three.js, MongoDB, Arduino, ML
+:mortar_board: **I use/have used:** 
+* :two_men_holding_hands: Agile methodologies (Scrum)
+* :hammer: Some tech 
+    * Typescript
+    * Node.js
+    * Express
+    * Angular
+* :floppy_disk: DB
+    * MySql, 
+    * MongoDB
+    * Firebase
+    * Sql Server
+* :microscope: Testing
+    * Jest
+    * Testing-library
+    * Enzyme
+* Other stuff
+    * Java, Ruby, ASP.net Core
+    * Bootstrap4, Sass
+    * Swagger, doxygen
+:clipboard: **Interested but haven't used yet:** Docker, Three.js, Arduino, ML
 
 ## Stats
 
