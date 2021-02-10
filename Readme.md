@@ -1,3 +1,5 @@
+<img width=30% src='https://avatars.githubusercontent.com/u/51116828?s=460&u=4fdc6df0e294bf9e5a4fca735177f1b2f6d6a19f&v=4'/>
+
 # Jesús González Álvarez @JesusGonzalezA 
 Hi, I'm Jesús, student of computer science (software development) at UGR (University of Granada, Spain). <a href="https://twitter.com/JesusGonADev">
   <img align="left" alt="JesusGonzalezA | Twitter" width="21px" src="https://raw.githubusercontent.com/JesusGonzalezA/JesusGonzalezA/master/assets/twitter-logo.png" />
