@@ -20,7 +20,7 @@ Hi, I'm Jesús, student of computer science (software development) at UGR (Unive
 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=plastic&logo=react&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=plastic&logo=JavaScript&logoColor=black)
-* C++
+![C++](https://img.shields.io/badge/-C++-00599C?style=plastic&logo=cplusplus&logoColor=black)
 
 :mortar_board: **I use/have used:** 
 * :two_men_holding_hands: Agile methodologies (Scrum)
