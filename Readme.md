@@ -24,7 +24,7 @@ Hi, I'm Jesús, student of computer science (software development) at UGR (Unive
 
 :mortar_board: **I use/have used:** 
 * :two_men_holding_hands: Agile methodologies (Scrum)
-* :hammer: Some tech  \
+* :hammer: Web development \
     ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=plastic&logo=TypeScript&logoColor=white)
     ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=plastic&logo=node.js&logoColor=white)
     ![Express](https://img.shields.io/badge/-Express-339933?style=plastic&logo=node.js&logoColor=white)
