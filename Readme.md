@@ -22,11 +22,15 @@ Hi, I'm Jesús, student of computer science (software development) at UGR (Unive
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=plastic&logo=JavaScript&logoColor=black)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=plastic&logo=cplusplus&logoColor=black)
 
-:mortar_board: **I use/have used:** 
-:two_men_holding_hands: Agile methodologies (Scrum)
+:mortar_board: **I use/have used:**
 
 
-:hammer: Web development 
+Agile methodologies :two_men_holding_hands: 
+
+Scrum
+
+
+Web development :hammer: 
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=plastic&logo=TypeScript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=plastic&logo=node.js&logoColor=white)
@@ -34,7 +38,7 @@ Hi, I'm Jesús, student of computer science (software development) at UGR (Unive
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=plastic&logo=angular)
     
     
-:floppy_disk: DB 
+DB :floppy_disk: 
 
 ![MySql](https://img.shields.io/badge/-MySql-4479A1?style=plastic&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=plastic&logo=MongoDB&logoColor=white)
@@ -42,7 +46,7 @@ Hi, I'm Jesús, student of computer science (software development) at UGR (Unive
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=plastic&logo=microsoftsqlserver&logoColor=white)
 
     
-:microscope: Testing 
+Testing :microscope: 
 
 ![Jest](https://img.shields.io/badge/-Jest-C21325?style=plastic&logo=Jest&logoColor=white)
 ![Testing library](https://img.shields.io/badge/-Testing%20library-E33332?style=plastic&logo=testinglibrary&logoColor=white)
