@@ -12,7 +12,7 @@ Hi, I'm Jesús, student of computer science (software development) at UGR (Unive
 </a>
 <a href="mailto:jesusgranada99@gmail.com?Subject=Hola%20Jesús!">
  <img align="left" alt="Mail" width="20px" src="https://raw.githubusercontent.com/JesusGonzalezA/JesusGonzalezA/master/assets/mail-icon.png" />
-</a>
+</a><br>
 
 
 ## Stats
