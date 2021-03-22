@@ -36,6 +36,7 @@ Scrum
 
 
 :hammer: Web development \
+![Three.js](https://img.shields.io/badge/-Three.js-000000?logo=three-dot-js&logoColor=white) 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=TypeScript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?&logo=node.js?logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-339933?&logo=node.js?ogoColor=white)
@@ -69,7 +70,6 @@ Scrum
 :clipboard: **Interested but haven't used yet:** 
 
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
-![Three.js](https://img.shields.io/badge/-Three.js-000000?logo=three-dot-js&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white)
 ![Tensorflow](https://img.shields.io/badge/-Tensorflow-FF6F00?logo=tensorflow&logoColor=white)
 
