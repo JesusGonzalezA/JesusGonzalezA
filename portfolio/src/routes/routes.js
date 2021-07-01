@@ -5,15 +5,15 @@ export const routes = [
         name: "Home"
     },
     {
-        path: "/",
+        path: "/projects",
         name: "Projects"
     },
     {
-        path: "/",
+        path: "/contact",
         name: "Contact"
     },
     {
-        path: "/",
+        path: "/blog",
         name: "Blog",
         outlined: true
     },

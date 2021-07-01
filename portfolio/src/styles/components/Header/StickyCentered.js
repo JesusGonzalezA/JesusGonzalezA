@@ -10,6 +10,7 @@ const StickyCentered = styled.header.attrs( props => ({
     padding: 10px;
     display: flex;
     justify-content: center;
+    z-index: 1;
     
     background-color: ${ props => props.theme.background };
     box-shadow: ${ props => props.shadow 

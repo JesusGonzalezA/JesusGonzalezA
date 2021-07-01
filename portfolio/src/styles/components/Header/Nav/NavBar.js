@@ -2,12 +2,6 @@ import styled from "styled-components"
 
 //**************************************************************************
 
-const RoundedPhoto = styled.img ({
-    borderRadius: '50%', 
-    width: '64px', 
-    height: '64px'
-})
-
 const Nav = styled.nav`
     display: flex;
     width: 80%;
@@ -110,7 +104,6 @@ const Li =  styled.li`
 //**************************************************************************
 
 export {
-    RoundedPhoto,
     Nav,
     Ul,
     Li

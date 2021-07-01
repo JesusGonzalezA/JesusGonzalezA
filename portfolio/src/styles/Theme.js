@@ -9,8 +9,8 @@ const GlobalStyle = createGlobalStyle`
     }
     
     html {
-        transition: background-color 0.7s ease-out;
-        transition: color 0.7s ease-out;
+        transition: background-color 0.2s ease-in;
+        transition: color 0.2s;
     }
 `
 

@@ -1,37 +1,38 @@
 import React from 'react'
 import { useDispatch, useSelector } from 'react-redux'
 
+import DarkModeToggle from "react-dark-mode-toggle";
+
 import { routes } from '../../routes/routes'
 import { LiLink } from './LiLink'
 import { Burger } from './Burger'
 
-import { Nav, RoundedPhoto, Ul } from '../../styles/components/Header/Nav/NavBar'
-import { setBurgerMenuState } from '../../actions/ui'
+import { Nav, Ul } from '../../styles/components/Header/Nav/NavBar'
+import { setBurgerMenuState, toggleTheme } from '../../actions/ui'
   
 //**************************************************************************
 
 const NavBar = () => {
 
-    const { isBurgerMenuOpened } = useSelector( state => state.ui )
+    const { isBurgerMenuOpened, dark } = useSelector( state => state.ui )
     const dispatch = useDispatch()
     
     const closeBurgerMenu = () => {
         dispatch( setBurgerMenuState( false ) )
     }
 
+    const toggleDarkMode = () => {
+        dispatch( toggleTheme() )
+    }
+
     return (
         <Nav>
-            <a 
-                title="Go to my linkedin profile"
-                target="_blank" 
-                rel="noopener noreferrer"
-                href="https://www.linkedin.com/in/jesusgonzalezalvarez/"
-            >
-                <RoundedPhoto 
-                    alt="Photo of me" 
-                    src={"https://media-exp3.licdn.com/dms/image/C4E03AQGwAVyCw8NMdA/profile-displayphoto-shrink_800_800/0/1575903667515?e=1629936000&v=beta&t=KxxcrRPoAgvYKOECBwa2EztrDvrtZVXZ5xVcNaawBgI"} 
-                />
-            </a>
+            <DarkModeToggle
+                onChange={ toggleDarkMode }
+                checked={ dark }
+                size={ 80 }
+                className="z-index-1"
+            />
             <Burger />
             <Ul isOpened={ isBurgerMenuOpened } >
                 {   
