@@ -24,20 +24,22 @@ const Ul = styled.ul`
         left: 0;
         width: 100vw;
         height: 100vh;
+        z-index: -1;
         
         display: flex;
         flex-direction: column;
         align-items: center;
         justify-content: center;
         
-        backdrop-filter: blur(6px);
+        backdrop-filter: blur(50px);
         
         ${ ({ isOpened }) => isOpened
             ? `
-            opacity: 1;
+                opacity: 1;
             `
             : `
-            opacity: 0;
+                display: none;
+                opacity: 0;
             ` 
         }
 

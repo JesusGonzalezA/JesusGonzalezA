@@ -29,3 +29,17 @@ a {
 .z-index-1 {
     z-index: 1;
 }
+
+
+#contact {
+    height: 100vh;
+    padding: 20px;
+}
+#skills {
+    height: 100vh;
+    padding: 20px;
+}
+#work {
+    height: 100vh;
+    padding: 20px;
+}

@@ -25,10 +25,20 @@ const setBurgerMenuState = ( state ) => {
     }
 }
 
+const setHeaderHeight = ( height ) => {
+    return {
+        type: types.setHeaderHeight,
+        payload: {
+            height
+        }
+    }
+}
+
 //**************************************************************************
 
 export {
     toggleTheme,
     toggleBurgerMenuState,
-    setBurgerMenuState
+    setBurgerMenuState,
+    setHeaderHeight
 }

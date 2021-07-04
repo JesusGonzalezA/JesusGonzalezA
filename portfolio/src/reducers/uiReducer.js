@@ -4,7 +4,8 @@ import { types } from "../types/types";
 
 const initialState = {
     dark: false,
-    isBurgerMenuOpened: false
+    isBurgerMenuOpened: false,
+    headerHeight: 0
 }
 
 //**************************************************************************
@@ -26,6 +27,12 @@ export const uiReducer = ( state = initialState, action ) => {
             return {
                 ...state,
                 isBurgerMenuOpened: action.payload.state
+            }
+        
+        case types.setHeaderHeight:
+            return {
+                ...state,
+                headerHeight: action.payload.height
             }
 
         default:
