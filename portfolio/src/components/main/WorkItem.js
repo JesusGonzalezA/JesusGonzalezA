@@ -92,8 +92,8 @@ export const WorkItem = ({
     description 
 }) => {
     return (
-        <FlexRow>
-            <Image src={ imgSRC } alt={ title } />
+        <FlexRow className="animate__animated animate__bounce">
+            <Image src={ imgSRC } alt={ title } loading="lazy"/>
             <Info>
                 <p className="mid-font">{ title }</p>
                 <p className="mttt mbbb">{ description }</p>

@@ -3,8 +3,7 @@ import { createGlobalStyle } from "styled-components"
 //**************************************************************************
 
 const GlobalStyle = createGlobalStyle`
-    @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
-
+    
     html, body, * {
         box-sizing: border-box;
         margin: 0;
