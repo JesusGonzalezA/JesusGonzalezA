@@ -18,20 +18,30 @@ const GlobalStyle = createGlobalStyle`
     }
 
     .big-font {
-        font-size: calc(64px + 0.15vw);
+        font-size: calc(72px + 0.15vw);
         font-weight: bolder;
-        background: linear-gradient(to right, ${props => props.theme.primary }, ${props => props.theme.secondary });
+        
+        background: ${props => props.theme.big_font };
         -webkit-text-fill-color: transparent;
         -webkit-background-clip: text;
     }
 
-    .underlined {
-        text-decoration: underline;
-        text-decoration-color: ${props => props.theme.primary }; 
+    .big {
+        font-size: calc(72px + 0.15vw);
+        font-weight: bolder;
+    }
+
+    footer {
+        background-color: #222130;
+        color: white;
     }
     
     @media (max-width: 1250px) {
         .big-font {
+            font-size: calc(48px + 0.15vw);
+        }
+
+        .big {
             font-size: calc(48px + 0.15vw);
         }
     } 
@@ -47,21 +57,27 @@ const baseTheme = {
 
 const lightTheme = {
     ...baseTheme,
+    big_font: baseTheme.gradient,
+    big_font_underlined: baseTheme.primary,
     error: 'red',
     warning: 'red',
     info: 'red',
     success: 'red',
     text: '#222130',
+    shadow: 'rgba(34, 33, 49, 0.27)',
     background: 'white',
 }
 
 const darkTheme = {
     ...baseTheme,
+    big_font: 'white',
+    big_font_underlined: 'white',
     error: 'red',
     warning: 'red',
     info: 'red',
     success: 'red',
     text: 'white',
+    shadow: 'rgba(255, 255, 255, 0.35)',
     background: '#222130',
 }
 

@@ -27,6 +27,7 @@ const FlexRow = styled.div`
 //**************************************************************************
 
 export const Contact = ({ 
+    light    = false,
     email    = "jesusgranada99@gmail.com",
     twitter  = "https://twitter.com/JesusGonADev",
     linkedin = "https://www.linkedin.com/in/jesusgonzalezalvarez/",
@@ -36,7 +37,7 @@ export const Contact = ({
     // Icons
     const themeContext = useContext(ThemeContext)
     const iconSize = 32
-    const iconColor = themeContext.text
+    const iconColor = ( !light ) ? themeContext.text : 'white'
 
     // Copy email to clipboard
     const [ hovered, setHovered ] = useState( false )

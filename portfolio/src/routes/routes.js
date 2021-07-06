@@ -9,6 +9,10 @@ export const routes = [
         name: "Skills"
     },
     {
+        path: "/#work",
+        name: "Work"
+    },
+    {
         path: "/#contact",
         name: "Contact"
     },

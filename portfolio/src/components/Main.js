@@ -2,7 +2,6 @@ import React from 'react'
 import { Home } from './main/Home'
 import { Skills } from './main/Skills'
 import { Work } from './main/Work'
-import { ContactMe } from './main/ContactMe'
 
 //**************************************************************************
 
@@ -12,7 +11,6 @@ const Main = () => {
             <Home />
             <Skills />
             <Work />
-            <ContactMe />
         </main>
     )
 }

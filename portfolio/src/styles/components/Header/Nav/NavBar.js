@@ -31,7 +31,7 @@ const Ul = styled.ul`
         align-items: center;
         justify-content: center;
         
-        backdrop-filter: blur(50px);
+        background-color: ${ props => props.theme.background };
         
         ${ ({ isOpened }) => isOpened
             ? `

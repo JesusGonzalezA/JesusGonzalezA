@@ -1,11 +1,10 @@
 import React from 'react'
 import { Contact } from '../Contact'
 
-export const ContactMe = () => {
+export const ContactMe = ({ light = false }) => {
     return (
         <div id="contact">
-            <h1 className="big-font underlined">Contact</h1>
-            <Contact />
+            <Contact light/>
         </div>
     )
 }
