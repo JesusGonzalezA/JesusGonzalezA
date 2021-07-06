@@ -43,6 +43,7 @@ const NavBar = () => {
                             path={ route.path } 
                             name={ route.name } 
                             outlined={ route.outlined }
+                            external={ route.external }
                         />
                     ))
                 }

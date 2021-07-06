@@ -20,7 +20,7 @@ const Header = () => {
     useEffect( () => {
 
         if ( headerDOM.current !== null ) {
-            const height = headerDOM.current.clientHeight
+            const height = headerDOM.current.offsetHeight || 60
             dispatch( setHeaderHeight( height ) ) 
         }
 

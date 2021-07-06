@@ -17,8 +17,9 @@ export const routes = [
         name: "Contact"
     },
     {
-        path: "/blog",
+        path: "https://jesusgonzaleza.hashnode.dev/",
         name: "Blog",
-        outlined: true
+        outlined: true,
+        external: true
     },
 ]

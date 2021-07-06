@@ -16,18 +16,26 @@ const scrollWithOffset = ( offset, el ) => {
 
 //**************************************************************************
 
-export const LiLink = ( { path, name, ...rest } ) => {
+export const LiLink = ( { path, name, external, ...rest } ) => {
     const { headerHeight } = useSelector(state => state.ui)
 
     return (
         <Li { ...rest }>
-            <Link 
-                to={ path }     
-                smooth={ true } 
-                scroll={ el => scrollWithOffset(headerHeight, el ) }
-            >
-                { name }
-            </Link>
+            { 
+                ( external )
+                ? 
+                <a href={ path } target="_blank" rel="noopener noreferrer">
+                    { name }
+                </a>
+                : 
+                <Link 
+                    to={ path }     
+                    smooth={ true } 
+                    scroll={ el => scrollWithOffset(headerHeight, el ) }
+                >
+                    { name }
+                </Link>
+            }
         </Li>
     )
 }
