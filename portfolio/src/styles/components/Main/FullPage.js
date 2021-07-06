@@ -9,7 +9,7 @@ const FullPage = styled.div`
   align-content: center;
   flex-direction: row;
 
-  height: ${ props => props.cut
+  min-height: ${ props => props.cut
     ? `calc(100vh - ${ props.cut }px)`
     : '100vh'
   };
@@ -41,7 +41,7 @@ const MainPhoto = styled.img`
   @media (max-width: ${ props => props.theme.break }) {
     width: 128px;
     height: 128px;
-    margin-top: 0;
+    margin-top: 10px;
   } 
 `
 
