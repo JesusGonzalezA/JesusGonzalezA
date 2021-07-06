@@ -59,7 +59,7 @@ export const Contact = ({
     return (
         <FlexColumn>
             <FlexRow>
-                <a href={ twitter } target="_blank">
+                <a href={ twitter } target="_blank" rel="noopener noreferrer">
                     <FaTwitter 
                         className="fa-icon"
                         size={ iconSize }
@@ -67,7 +67,7 @@ export const Contact = ({
                         title='Twitter'
                     /> 
                 </a>
-                <a href={ linkedin } target="_blank">
+                <a href={ linkedin } target="_blank" rel="noopener noreferrer">
                     <FaLinkedinIn 
                         className="fa-icon"
                         size={ iconSize }
@@ -75,7 +75,7 @@ export const Contact = ({
                         title='LinkedIn'
                     /> 
                 </a>
-                <a href={ github } target="_blank">
+                <a href={ github } target="_blank" rel="noopener noreferrer">
                     <FaGithub 
                         className="fa-icon"
                         size={ iconSize }

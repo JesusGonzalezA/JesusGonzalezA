@@ -7,8 +7,6 @@ import { FullPage, FlexColumn, MainPhoto } from '../../styles/components/Main/Fu
 import Title from '../../styles/components/Main/Title'
 import { Contact } from '../Contact'
 
-import photo from '../../assets/Photo.png'
-
 //**************************************************************************
 
 const options = {
@@ -25,14 +23,17 @@ const options = {
 
 //**************************************************************************
 
-export const Home = ( { imgUrl = photo, name = "Jesus Gonzalez" } ) => {
+export const Home = ({ 
+    imgUrl = `${process.env.PUBLIC_URL}/assets/Photo.png`, 
+    name = "Jesus Gonzalez" 
+}) => {
     const { headerHeight } = useSelector(state => state.ui)
 
     return (
         <FullPage cut={ headerHeight } id="home">
             <FlexColumn>
                 <MainPhoto
-                    src={ imgUrl } 
+                    src={ imgUrl }
                     alt="Photo of me"
                 />
 

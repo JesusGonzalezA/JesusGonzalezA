@@ -1,13 +1,6 @@
 import React from 'react'
 import styled from 'styled-components'
 
-import connect4 from '../../assets/work/connect4.png'
-import blog from '../../assets/work/blog.png'
-import ecotravel from '../../assets/work/ecotravel.png'
-import gamelife from '../../assets/work/gamelife.png'
-import iot from '../../assets/work/iot.png'
-import yuzin from '../../assets/work/yuzin.png'
-
 import { WorkItem } from './WorkItem'
 
 //**************************************************************************
@@ -44,7 +37,7 @@ export const Work = () => {
                         a friend of mine and me developed this game using ThreeJS library."
                         urlGithub="https://github.com/JesusGonzalezA/Connect4"
                         urlLive="https://jesusgonzaleza.github.io/Connect4/"
-                        imgSRC={ connect4 }
+                        imgSRC={ `${process.env.PUBLIC_URL}/assets/work/connect4.png` }
                     />
                     <WorkItem 
                         title="Blog"
@@ -52,7 +45,7 @@ export const Work = () => {
                         my university project. It is a blog created using php, twig, mysql and vanilla javascript and css. It implements
                         session control, authorization and authentication, admin panel, search, etc."
                         urlGithub="https://github.com/JesusGonzalezA/Hiking-Blog"
-                        imgSRC={ blog }
+                        imgSRC={ `${process.env.PUBLIC_URL}/assets/work/blog.png` }
                     />
                     <WorkItem 
                         title="EcoTravel"
@@ -60,7 +53,7 @@ export const Work = () => {
                         using AdobeXD. You can read our case study on Github"
                         urlGithub="https://github.com/JesusGonzalezA/DIU21"
                         urlLive="https://xd.adobe.com/view/33c4e3f8-e569-449f-adc6-9f347606e847-6697/?fullscreen"
-                        imgSRC={ ecotravel }
+                        imgSRC={ `${process.env.PUBLIC_URL}/assets/work/ecotravel.png` }
                     />
                     <WorkItem 
                         title="Game of life"
@@ -68,14 +61,14 @@ export const Work = () => {
                         the Game of life (popular cellular Turing complete automaton) using bootstrap, React and redux."
                         urlGithub="https://github.com/JesusGonzalezA/GameOfLife"
                         urlLive="https://jesusgonzaleza.github.io/GameOfLife/"
-                        imgSRC={ gamelife }
+                        imgSRC={ `${process.env.PUBLIC_URL}/assets/work/gamelife.png` }
                     />
                     <WorkItem 
                         title="IOT Simulator"
                         description="Real-Time application to control your house state. It simulates how an IOT System app works. 
                         It was created using NodeJS, MongoDB and SocketIO."
                         urlGithub="https://github.com/JesusGonzalezA/IOT_System_Simulator"
-                        imgSRC={ iot }
+                        imgSRC={ `${process.env.PUBLIC_URL}/assets/work/iot.png` }
                     />
                     <WorkItem 
                         title="Case Study: Yuzin"
@@ -84,7 +77,7 @@ export const Work = () => {
                         study on Github."
                         urlGithub="https://github.com/JesusGonzalezA/CaseStudy-Yuzin/blob/main/CaseStudy.md"
                         urlLive="https://github.com/JesusGonzalezA/CaseStudy-Yuzin/blob/main/CaseStudy.md"
-                        imgSRC={ yuzin }
+                        imgSRC={ `${process.env.PUBLIC_URL}/assets/work/yuzin.png` }
                     />
                 </Wrapper>
             </CenteredWrapper>
