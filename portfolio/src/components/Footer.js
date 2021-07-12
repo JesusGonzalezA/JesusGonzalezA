@@ -23,7 +23,7 @@ const Footer = () => {
                 <ScrollToTop />
             </FlexRow>
 
-            <p style={{ marginTop: '15px', fontSize: '1.5rem' }}>
+            <p style={{ marginTop: '60px', marginBottom: '60px', fontSize: '1.5rem' }}>
                 Let's share a coffee. I am looking forward to getting to meeting you!
             </p>
 

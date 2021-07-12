@@ -9,8 +9,8 @@ const Wrapper = styled.div`
     justify-content: space-between;
     
     width: 300px;    
-    margin-right: 50px;
-    margin-top: 50px;
+    margin-right: 40px;
+    margin-top: 40px;
     padding: 20px;
 
     border-radius: 20px;

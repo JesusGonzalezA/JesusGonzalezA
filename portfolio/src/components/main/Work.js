@@ -16,7 +16,7 @@ const Wrapper = styled.div`
     flex-wrap: wrap;
     margin-top: 30px;
     justify-content: space-between;
-    width: 80%;
+    width: 90%;
 `
 
 //**************************************************************************

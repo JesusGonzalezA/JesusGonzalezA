@@ -39,16 +39,16 @@ const GlobalStyle = createGlobalStyle`
     }
 
     #contact {
-        padding: 120px;
     }
 
     #skills {
         padding: 20px;
-        margin-bottom: 120px;
+        margin-top: 0px;
+        margin-bottom: 60px;
     }
     #work {
         padding: 20px;
-        margin-bottom: 120px;
+        margin-bottom: 80px;
     }
 
     .mttt {

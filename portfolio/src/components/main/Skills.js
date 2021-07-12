@@ -16,7 +16,7 @@ const CenterWrapper = styled.div`
 const Wrapper = styled.div`
     display: flex;
     flex-wrap: wrap;
-    width: 80%;
+    width: 90%;
     justify-content: space-evenly;
 `
 

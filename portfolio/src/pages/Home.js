@@ -11,6 +11,7 @@ const Home = () => {
         <React.Fragment>
             <Header/>
             <Main/>
+            <hr/>
             <Footer/>
         </React.Fragment>
     )

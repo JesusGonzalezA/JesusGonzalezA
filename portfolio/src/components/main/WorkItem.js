@@ -12,7 +12,7 @@ const FlexRow = styled.div`
     margin-right: 10px;
     box-shadow: 0px 0px 4px 2px ${ props => props.theme.shadow }, 0 4px 4px 0 ${ props => props.theme.shadow };
     border-radius: 10px;
-    margin-top: 30px;
+    margin-top: 40px;
 
     @media (max-width: ${ props => props.theme.break }) {
         flex-direction: column;
@@ -48,7 +48,7 @@ const Info = styled.div`
     text-align: left;
     
     @media (max-width: ${ props => props.theme.break }) {
-        width: 80%;
+        width: 90%;
     }
 `
 
