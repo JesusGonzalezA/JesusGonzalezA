@@ -1,7 +1,7 @@
 <img width=30% src='https://avatars.githubusercontent.com/u/51116828?s=460&u=4fdc6df0e294bf9e5a4fca735177f1b2f6d6a19f&v=4'/>
 
 # Jesús González Álvarez @JesusGonzalezA 
-[Check my portfolio here!](https://jesusgonzaleza.github.io/)
+[Check my portfolio here!](https://jesusgonzaleza.github.io/JesusGonzalezA)
 
 [See my CV here!](CV_En.pdf) Hi, I'm Jesús, student of computer science (software development) at UGR (University of Granada, Spain). 
 
