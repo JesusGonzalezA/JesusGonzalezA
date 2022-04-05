@@ -1,4 +1,4 @@
-<img width=30% src='https://media-exp1.licdn.com/dms/image/C4D03AQGPEeCXY8jdEQ/profile-displayphoto-shrink_800_800/0/1632990161886?e=1639612800&v=beta&t=RBIty6vHBZyZO-SwA42ib69Rzrj5c5uNUZ5ptpx1fIQ'/>
+<img width=30% src='https://avatars.githubusercontent.com/u/51116828?v=4'/>
 
 # Jesús González Álvarez @JesusGonzalezA 
 [Check my portfolio here!](https://jesusgonzaleza.github.io/JesusGonzalezA)
