@@ -3,7 +3,7 @@
 # Jesús González Álvarez @JesusGonzalezA 
 [Check my portfolio here!](https://jesusgonzaleza.github.io/JesusGonzalezA)
 
-[See my CV here!](CV_En.pdf) Hi, I'm Jesús, student of computer science (software development) at UGR (University of Granada, Spain). 
+[See my CV here!](CV_En.pdf) Hi, I'm Jesús, software engineering based in Granada, Spain. 
 
 
 
