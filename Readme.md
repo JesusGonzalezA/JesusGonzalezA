@@ -1,5 +1,3 @@
-<img width=30% src='https://avatars.githubusercontent.com/u/51116828?v=4'/>
-
 # Jesús González Álvarez @JesusGonzalezA 
 [Check my portfolio here!](https://jesusgonzaleza.github.io/JesusGonzalezA)
 
