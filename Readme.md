@@ -1,4 +1,4 @@
-# Jesús González Álvarez @JesusGonzalezA 
+# Hi! Welcome to my page! 😄👋🏻
 [Check my portfolio here!](https://jesusgonzaleza.github.io/JesusGonzalezA)
 
 [See my CV here!](CV_En.pdf) Hi, I'm Jesús, software engineering based in Granada, Spain. 
