@@ -1,15 +1,11 @@
 # Hi! Welcome to my page! 😄👋🏻
 [Check my portfolio here!](https://jesusgonzaleza.github.io/JesusGonzalezA)
 
-[See my CV here!](CV_En.pdf) Hi, I'm Jesús, software engineering based in Granada, Spain. 
-
-
+[See my CV here!](CV_En.pdf) Hi, I'm Jesús, a software engineer based in Spain. 
 
 ## Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JesusGonzalezA&layout=compact)](https://github.com/JesusGonzalezA?tab=repositories)
-
-
 
 ## Get in touch 
 
