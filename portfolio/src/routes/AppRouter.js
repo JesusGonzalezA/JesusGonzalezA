@@ -2,7 +2,7 @@ import React from "react"
 import { useSelector } from "react-redux"
 import { ThemeProvider } from "styled-components"
 import {
-  BrowserRouter as Router,
+  HashRouter as Router,
   Switch,
   Route,
   Redirect
