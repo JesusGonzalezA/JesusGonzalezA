@@ -16,7 +16,7 @@ export const Burger = () => {
     }
 
     return (
-        <StyledBurger onClick={ toggleMenu } open={ isBurgerMenuOpened }>
+        <StyledBurger aria-label='switch options menu' onClick={ toggleMenu } open={ isBurgerMenuOpened }>
             <div />
             <div />
             <div />
