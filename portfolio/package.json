@@ -1,7 +1,7 @@
 {
   "name": "portfolio",
-  "homepage": "https://jesusgonzaleza.github.io/JesusGonzalezA",
   "version": "0.1.0",
+  "homepage": "https://jesusgonzaleza.github.io",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
